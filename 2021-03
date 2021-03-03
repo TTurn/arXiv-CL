@@ -5,6 +5,7 @@ BERT-based Acronym Disambiguation with Multiple Training Strategies
 作者：Chunguang Pan,Bingyan Song,Shengguang Wang,Zhipeng Luo
 机构：DeepBlue Technology (Shanghai)Co., Ltd
 链接：https://arxiv.org/abs/2103.00488
+缩略词消歧义任务比较少有人研究，感觉使用领域的信息就能解决；文章将任务变成分类任务，然后使用BERT网上怼，论文就产生了。
 
 A Simple But Effective Approach to n-shot Task-Oriented Dialogue Augmentation
 标题：一种简单而有效的n镜头任务导向对话增强方法
@@ -12,3 +13,27 @@ A Simple But Effective Approach to n-shot Task-Oriented Dialogue Augmentation
 机构：t National University of Singapore, Singapore, Institute for Infocomm Research,STAR, Singapore
 备注：8 pages, 5 figures, and 3 tables
 链接：https://arxiv.org/abs/2103.00293
+任务型对话语料的数据增强框架。
+
+2021-03-03
+
+A Data-driven Approach to Estimate User Satisfaction in Multi-turn  Dialogues
+标题：一种数据驱动的多轮对话用户满意度评估方法
+作者：Ziming Li,Dookun Park,Julia Kiseleva,Young-Bum Kim,Sungjin Lee
+机构：IUniversity of Amsterdam,Amazon Alexa Al,Microsoft Research
+备注：12 pages
+链接：https://arxiv.org/abs/2103.01287
+
+Data Augmentation for Abstractive Query-Focused Multi-Document  Summarization
+标题：面向抽象查询的多文档摘要的数据增强
+作者：Ramakanth Pasunuru,Asli Celikyilmaz,Michel Galley,Chenyan Xiong,Yizhe Zhang,Mohit Bansal,Jianfeng Gao
+机构：UNC Chapel Hill,Microsoft Research, Redmond
+备注：AAAI 2021 (13 pages)
+链接：https://arxiv.org/abs/2103.01863
+
+Towards Efficiently Diversifying Dialogue Generation via Embedding  Augmentation
+标题：通过嵌入增强实现对话生成的高效多样化
+作者：Yu Cao,Liang Ding,Zhiliang Tian,Meng Fang
+机构：The University of Sydney, Australia, Tencent Robotics X, China, The Hong Kong University of Science and Technology, Hong Kong
+备注：5 pages, 2 figures, ICASSP2021
+链接：https://arxiv.org/abs/2103.01534
