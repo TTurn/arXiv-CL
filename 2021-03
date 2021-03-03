@@ -23,13 +23,7 @@ A Data-driven Approach to Estimate User Satisfaction in Multi-turn  Dialogues
 机构：IUniversity of Amsterdam,Amazon Alexa Al,Microsoft Research
 备注：12 pages
 链接：https://arxiv.org/abs/2103.01287
-
-Data Augmentation for Abstractive Query-Focused Multi-Document  Summarization
-标题：面向抽象查询的多文档摘要的数据增强
-作者：Ramakanth Pasunuru,Asli Celikyilmaz,Michel Galley,Chenyan Xiong,Yizhe Zhang,Mohit Bansal,Jianfeng Gao
-机构：UNC Chapel Hill,Microsoft Research, Redmond
-备注：AAAI 2021 (13 pages)
-链接：https://arxiv.org/abs/2103.01863
+对话轮数+用户耐心度表示用户对话满意度进行对话的评估。
 
 Towards Efficiently Diversifying Dialogue Generation via Embedding  Augmentation
 标题：通过嵌入增强实现对话生成的高效多样化
@@ -37,3 +31,4 @@ Towards Efficiently Diversifying Dialogue Generation via Embedding  Augmentation
 机构：The University of Sydney, Australia, Tencent Robotics X, China, The Hong Kong University of Science and Technology, Hong Kong
 备注：5 pages, 2 figures, ICASSP2021
 链接：https://arxiv.org/abs/2103.01534
+使用词向量进行对话生成。
