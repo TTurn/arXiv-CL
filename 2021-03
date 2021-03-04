@@ -32,3 +32,13 @@ Towards Efficiently Diversifying Dialogue Generation via Embedding  Augmentation
 备注：5 pages, 2 figures, ICASSP2021
 链接：https://arxiv.org/abs/2103.01534
 使用词向量进行对话生成。
+
+2021-03-04
+
+NaturalConv: A Chinese Dialogue Dataset Towards Multi-turn Topic-driven Conversation
+标题：NaturalConv：面向多轮话题驱动会话的中文对话数据集
+作者：Xiaoyang Wang,Chen Li,Jianqiao Zhao,Dong Yu
+机构：Tencent AI Lab, Bellevue, WA
+备注：Accepted as a main track paper at AAAI 2021
+链接：https://arxiv.org/abs/2103.02548
+腾讯A发布供的多轮对话数据集。
