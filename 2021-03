@@ -43,7 +43,7 @@ NaturalConv: A Chinese Dialogue Dataset Towards Multi-turn Topic-driven Conversa
 链接：https://arxiv.org/abs/2103.02548
 腾讯AI发布供的多轮对话数据集。
 
-20121-03-05
+2021-03-05
 
 An Emotion-controlled Dialog Response Generation Model with Dynamic Vocabulary
 标题：一种带动态词汇的情感控制型对话应答生成模型
@@ -59,3 +59,19 @@ Advances in Multi-turn Dialogue Comprehension: A Survey
 作者：Zhuosheng Zhang,Hai Zhao
 机构：Key Laboratory of Shanghai Education Commission for Intelligent Interaction, and Cognitive Engineering, Shanghai Jiao Tong University, Shanghai, China, MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, Shanghai, China
 链接：https://arxiv.org/abs/2103.03125
+
+2021-03-08
+
+Syntactic and Semantic-driven Learning for Open Information Extraction
+标题：句法和语义驱动的开放式信息抽取学习
+作者：Jialong Tang,Yaojie Lu,Hongyu Lin,Xianpei Han,Le Sun,Xinyan Xiao,Hua Wu
+机构：Chinese Information Processing Laboratory ,State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China, University of Chinese Academy of Sciences, Beijing, China, Baidu Inc., Beijing, China
+备注：11 pages
+链接：https://arxiv.org/abs/2103.03448
+
+Enhanced Aspect-Based Sentiment Analysis Models with Progressive  Self-supervised Attention Learning
+标题：基于渐进式自监督注意学习的增强型基于方面的情感分析模型
+作者：Jinsong Su,Jialong Tang,Hui Jiang,Ziyao Lu,Yubin Ge,Linfeng Song,Deyi Xiong,Le Sun,Jiebo Luo
+机构：Xiamen University, Xiamen , China, Institute of Software, Chinese Academy of Sciences, Beijing, China, CUniversity of Chinese Academy of Sciences, Beijing, China, University of Illinois at Urbana-Champaign, Urbana, IL , USA, Tianjin University, Tianjin, China, University of Rochester, Rochester NY, USA
+备注：31 pages. arXiv admin note: text overlap with arXiv:1906.01213
+链接：https://arxiv.org/abs/2103.03446
