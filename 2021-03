@@ -45,7 +45,7 @@ NaturalConv: A Chinese Dialogue Dataset Towards Multi-turn Topic-driven Conversa
 
 2021-03-05
 
-An Emotion-controlled Dialog Response Generation Model with Dynamic Vocabulary
+*An Emotion-controlled Dialog Response Generation Model with Dynamic Vocabulary
 标题：一种带动态词汇的情感控制型对话应答生成模型
 作者：Shuangyong Song,Kexin Wang,Chao Wang,Haiqing Chen,Huan Chen
 机构：Alibaba Groups, Hangzhou , China
@@ -62,16 +62,20 @@ Advances in Multi-turn Dialogue Comprehension: A Survey
 
 2021-03-08
 
-Syntactic and Semantic-driven Learning for Open Information Extraction
-标题：句法和语义驱动的开放式信息抽取学习
-作者：Jialong Tang,Yaojie Lu,Hongyu Lin,Xianpei Han,Le Sun,Xinyan Xiao,Hua Wu
-机构：Chinese Information Processing Laboratory ,State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China, University of Chinese Academy of Sciences, Beijing, China, Baidu Inc., Beijing, China
-备注：11 pages
-链接：https://arxiv.org/abs/2103.03448
-
-Enhanced Aspect-Based Sentiment Analysis Models with Progressive  Self-supervised Attention Learning
+*Enhanced Aspect-Based Sentiment Analysis Models with Progressive  Self-supervised Attention Learning
 标题：基于渐进式自监督注意学习的增强型基于方面的情感分析模型
 作者：Jinsong Su,Jialong Tang,Hui Jiang,Ziyao Lu,Yubin Ge,Linfeng Song,Deyi Xiong,Le Sun,Jiebo Luo
 机构：Xiamen University, Xiamen , China, Institute of Software, Chinese Academy of Sciences, Beijing, China, CUniversity of Chinese Academy of Sciences, Beijing, China, University of Illinois at Urbana-Champaign, Urbana, IL , USA, Tianjin University, Tianjin, China, University of Rochester, Rochester NY, USA
 备注：31 pages. arXiv admin note: text overlap with arXiv:1906.01213
 链接：https://arxiv.org/abs/2103.03446
+一种ABSA模型训练优化方法，自动提取注意力监督信息。基于方面的情感分析任务可以看一下。
+
+2021-03-09
+
+*Improving Zero-Shot Entity Retrieval through Effective Dense Representations
+标题：通过有效的稠密表示改进零命中实体检索
+作者：Eleni Partalidou,Despina Christou,Grigorios Tsoumakas
+机构：Aristotle University of Thessaloniki Aristotle University of Thessaloniki, Thessaloniki-Greece
+备注：8 pages, 2 figures
+链接：https://arxiv.org/abs/2103.04156
+将bert运用到实体链接任务中的候选值生成，达到stoa水平。
