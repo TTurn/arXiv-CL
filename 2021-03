@@ -86,6 +86,8 @@ Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees
 机构：Peking University, Beijing, China, Microsoft Research Asia, Beijing, China, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China, yujing,iie.ac.cn
 备注：EACL2021
 链接：https://arxiv.org/abs/2103.04350
+一只好奇怎么将语法树的信息加入到神经网络的训练中，之前的论文：Linguistically-Informed Self-Attention for Semantic Role Labeling结合了语法树和transformer用于SRL。
+这篇论文使用语法树提升预训练模型的效果。
 
 2021-03-10
 
