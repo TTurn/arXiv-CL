@@ -79,3 +79,20 @@ Advances in Multi-turn Dialogue Comprehension: A Survey
 备注：8 pages, 2 figures
 链接：https://arxiv.org/abs/2103.04156
 将bert运用到实体链接任务中的候选值生成，达到stoa水平。
+
+Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees
+标题：语法-BERT：用语法树改进预先训练的转换器
+作者：Jiangang Bai,Yujing Wang,Yiren Chen,Yaming Yang,Jing Bai,Jing Yu,Yunhai Tong
+机构：Peking University, Beijing, China, Microsoft Research Asia, Beijing, China, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China, yujing,iie.ac.cn
+备注：EACL2021
+链接：https://arxiv.org/abs/2103.04350
+
+2021-03-10
+
+Self-supervised Regularization for Text Classification
+标题：自监督正则化在文本分类中的应用
+作者：Meng Zhou,Zechen Li,Pengtao Xie
+机构：Shanghai Jiao Tong University Northeastern University, UC San Diego
+备注：15 pages, 3 figures, to be published in Transactions of the Association for Computational Linguistics
+链接：https://arxiv.org/abs/2103.05231
+在文本分类的loss中加入自监督任务loss作为正则项，缓解文本分类的过拟合问题。
