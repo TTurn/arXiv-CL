@@ -98,3 +98,10 @@ Self-supervised Regularization for Text Classification
 备注：15 pages, 3 figures, to be published in Transactions of the Association for Computational Linguistics
 链接：https://arxiv.org/abs/2103.05231
 在文本分类的loss中加入自监督任务loss作为正则项，缓解文本分类的过拟合问题。
+
+BERTese: Learning to Speak to BERT
+标题：BERTese：学习与Bert交谈
+作者：Adi Haviv,Jonathan Berant,Amir Globerson
+机构：Tel Aviv University, Allen Institute for Al
+链接：https://arxiv.org/abs/2103.05327
+对QA数据的query进行重写(bert embeeding)，重写后的query进入bert进行预测答案。目的是训练一个重写模型。
