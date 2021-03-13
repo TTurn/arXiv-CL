@@ -86,7 +86,7 @@ Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees
 机构：Peking University, Beijing, China, Microsoft Research Asia, Beijing, China, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China, yujing,iie.ac.cn
 备注：EACL2021
 链接：https://arxiv.org/abs/2103.04350
-一只好奇怎么将语法树的信息加入到神经网络的训练中，之前的论文：Linguistically-Informed Self-Attention for Semantic Role Labeling结合了语法树和transformer用于SRL。
+一只好奇怎么将语法树的信息加入到神经网络的训练中，之前的论文：Linguistically-Informed Self-Attention for Semantic Role Labeling通过多任务学习，前面层学习为谓词识别和pos任务，结合了语法和transformer用于SRL。
 这篇论文使用语法树提升预训练模型的效果。
 
 2021-03-10
@@ -105,3 +105,27 @@ BERTese: Learning to Speak to BERT
 机构：Tel Aviv University, Allen Institute for Al
 链接：https://arxiv.org/abs/2103.05327
 对QA数据的query进行重写(bert embeeding)，重写后的query进入bert进行预测答案。目的是训练一个重写模型。
+
+2021-03-12
+
+ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment  Analysis and Rating Prediction
+标题：ASAP：面向方面类别情感分析和评分预测的中文评论数据集
+作者：Jiahao Bu,Lei Ren,Shuang Zheng,Yang Yang,Jingang Wang,Fuzheng Zhang,Wei Wu
+机构：NLP Center, Meituan
+备注：10 Pages, 4 Figures, Accepted at NAACL 2021
+链接：https://arxiv.org/abs/2103.06605
+出自美团的ABSA细粒度情感分析的中文数据集，同时进行情感分析和评分预测两个任务。
+
+Conversational Answer Generation and Factuality for Reading  Comprehension Question-Answering
+标题：会话式答案生成与阅读理解问答的真实性
+作者：Stan Peshterliev,Barlas Oguz,Debojeet Chatterjee,Hakan Inan,Vikas Bhardwaj
+链接：https://arxiv.org/abs/2103.06500
+AnswerBART，一个端到端的模型，使用阅读理解用于会话答案生成。
+
+Domain State Tracking for a Simplified Dialogue System
+标题：一种简化对话系统的域状态跟踪
+作者：Hyunmin Jeon,Gary Geunbae Lee
+机构：Computer Science and Engineering Computer Science and Engineering, POSTECH, Pohang, South Korea
+备注：6 pages, 5 figures
+链接：https://arxiv.org/abs/2103.06648
+在任务型对话中不加入上下文信息，只是简单的加入了上文提取到的领域信息作为输入。
