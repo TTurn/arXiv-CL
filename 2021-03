@@ -129,3 +129,17 @@ Domain State Tracking for a Simplified Dialogue System
 备注：6 pages, 5 figures
 链接：https://arxiv.org/abs/2103.06648
 在任务型对话中不加入上下文信息，只是简单的加入了上文提取到的领域信息作为输入。
+
+2021-03-16
+
+Few-Shot Text Classification with Triplet Networks, Data Augmentation,  and Curriculum Learning
+标题：基于三重网络、数据增强和课程学习的少发文本分类
+作者：Jason Wei,Chengyu Huang,Soroush Vosoughi,Yu Cheng,Shiqi Xu
+备注：To appear at NAACL 2021
+链接：https://arxiv.org/abs/2103.07552
+
+Context Transformer with Stacked Pointer Networks for Conversational  Question Answering over Knowledge Graphs
+标题：基于堆叠指针网络的知识图对话式问答上下文转换器
+作者：Joan Plepi,Endri Kacupaj,Kuldeep Singh,Harsh Thakkar,Jens Lehmann
+备注：18th Extended Semantic Web Conference 2021 (ESWC'2021) - Research Track
+链接：https://arxiv.org/abs/2103.07766
