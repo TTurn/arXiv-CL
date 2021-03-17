@@ -143,3 +143,25 @@ Context Transformer with Stacked Pointer Networks for Conversational  Question A
 作者：Joan Plepi,Endri Kacupaj,Kuldeep Singh,Harsh Thakkar,Jens Lehmann
 备注：18th Extended Semantic Web Conference 2021 (ESWC'2021) - Research Track
 链接：https://arxiv.org/abs/2103.07766
+
+2021-03-17
+
+KGSynNet: A Novel Entity Synonyms Discovery Framework with Knowledge  Graph
+标题：KGSynNet：一种新的基于知识图的实体同义词发现框架
+作者：Yiying Yang,Xi Yin,Haiqin Yang,Xingjian Fei,Hao Peng,Kaijie Zhou,Kunfeng Lai,Jianping Shen
+机构：Ping An Life Insurance Company of China, Ltd., BDBC, Beihang University, Beijing, China,
+备注：16 pages, 3 figures, 5 tables, in DASFAA'21
+链接：https://arxiv.org/abs/2103.08893
+
+Automatic Intent-Slot Induction for Dialogue Systems
+标题：对话系统的自动意向槽归纳
+作者：Zengfeng Zeng,Dan Ma,Haiqin Yang,Zhen Gou,Jianping Shen
+机构：Ping An Life Insurance of China,ltd. Ping An Life Insurance of China,ltd. Ping An Life Insurance of China,ltd., Ping An Life Insurance of China, Ltd. Ping An Life Insurance of China, Ltd.
+备注：12 pages, 11 figures, 6 tables, in WWW'21
+链接：https://arxiv.org/abs/2103.08886
+
+dictNN: A Dictionary-Enhanced CNN Approach for Classifying Hate Speech  on Twitter
+标题：Dical NN：一种字典增强的CNN方法，用于对Twitter上的仇恨言论进行分类
+作者：Maximilian Kupi,Michael Bodnar,Nikolas Schmidt,Carlos Eduardo Posada
+机构：Hertie School, FriedrichstraBe , Berlin, Germany
+链接：https://arxiv.org/abs/2103.08780
