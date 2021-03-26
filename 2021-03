@@ -182,3 +182,4 @@ SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers
 作者：Dheeraj Rajagopal,Vidhisha Balachandran,Eduard Hovy,Yulia Tsvetkov
 机构：Carnegie Mellon University
 链接：https://arxiv.org/abs/2103.12279
+自解释结构的神经网络文本分类，使用语法树中的非叶子结点作为解释点。解释分为了局部解释和全局解释。局部解释为文本中的短语的重要性，全局解释为训练集中的短语重要性。
