@@ -1,13 +1,13 @@
 2021-03-02
 
-BERT-based Acronym Disambiguation with Multiple Training Strategies
+[🌟]BERT-based Acronym Disambiguation with Multiple Training Strategies
 标题：基于BERT的多训练策略缩略语消歧
 作者：Chunguang Pan,Bingyan Song,Shengguang Wang,Zhipeng Luo
 机构：DeepBlue Technology (Shanghai)Co., Ltd
 链接：https://arxiv.org/abs/2103.00488
 缩略词消歧义任务比较少有人研究，感觉使用领域的信息就能解决；文章将任务变成分类任务，然后使用BERT网上怼，论文就产生了。
 
-A Simple But Effective Approach to n-shot Task-Oriented Dialogue Augmentation
+[🌟🌟]A Simple But Effective Approach to n-shot Task-Oriented Dialogue Augmentation
 标题：一种简单而有效的n镜头任务导向对话增强方法
 作者：Taha Aksu,Nancy F. Chen,Min-Yen Kan,Zhengyuan Liu
 机构：t National University of Singapore, Singapore, Institute for Infocomm Research,STAR, Singapore
@@ -17,7 +17,7 @@ A Simple But Effective Approach to n-shot Task-Oriented Dialogue Augmentation
 
 2021-03-03
 
-A Data-driven Approach to Estimate User Satisfaction in Multi-turn  Dialogues
+[🌟]A Data-driven Approach to Estimate User Satisfaction in Multi-turn  Dialogues
 标题：一种数据驱动的多轮对话用户满意度评估方法
 作者：Ziming Li,Dookun Park,Julia Kiseleva,Young-Bum Kim,Sungjin Lee
 机构：IUniversity of Amsterdam,Amazon Alexa Al,Microsoft Research
@@ -25,7 +25,7 @@ A Data-driven Approach to Estimate User Satisfaction in Multi-turn  Dialogues
 链接：https://arxiv.org/abs/2103.01287
 对话轮数+用户耐心度表示用户对话满意度进行对话的评估。
 
-Towards Efficiently Diversifying Dialogue Generation via Embedding  Augmentation
+[🌟🌟]Towards Efficiently Diversifying Dialogue Generation via Embedding  Augmentation
 标题：通过嵌入增强实现对话生成的高效多样化
 作者：Yu Cao,Liang Ding,Zhiliang Tian,Meng Fang
 机构：The University of Sydney, Australia, Tencent Robotics X, China, The Hong Kong University of Science and Technology, Hong Kong
@@ -35,7 +35,7 @@ Towards Efficiently Diversifying Dialogue Generation via Embedding  Augmentation
 
 2021-03-04
 
-NaturalConv: A Chinese Dialogue Dataset Towards Multi-turn Topic-driven Conversation
+[🌟]NaturalConv: A Chinese Dialogue Dataset Towards Multi-turn Topic-driven Conversation
 标题：NaturalConv：面向多轮话题驱动会话的中文对话数据集
 作者：Xiaoyang Wang,Chen Li,Jianqiao Zhao,Dong Yu
 机构：Tencent AI Lab, Bellevue, WA
@@ -45,7 +45,7 @@ NaturalConv: A Chinese Dialogue Dataset Towards Multi-turn Topic-driven Conversa
 
 2021-03-05
 
-*An Emotion-controlled Dialog Response Generation Model with Dynamic Vocabulary
+[🌟🌟]An Emotion-controlled Dialog Response Generation Model with Dynamic Vocabulary
 标题：一种带动态词汇的情感控制型对话应答生成模型
 作者：Shuangyong Song,Kexin Wang,Chao Wang,Haiqing Chen,Huan Chen
 机构：Alibaba Groups, Hangzhou , China
@@ -54,7 +54,7 @@ NaturalConv: A Chinese Dialogue Dataset Towards Multi-turn Topic-driven Conversa
 使用动态词汇对回复进行情感控制并且加快对话生成速度。
 https://blog.csdn.net/choose_c/article/details/114435006
 
-Advances in Multi-turn Dialogue Comprehension: A Survey
+[🌟🌟]Advances in Multi-turn Dialogue Comprehension: A Survey
 标题：多轮对话理解研究进展综述
 作者：Zhuosheng Zhang,Hai Zhao
 机构：Key Laboratory of Shanghai Education Commission for Intelligent Interaction, and Cognitive Engineering, Shanghai Jiao Tong University, Shanghai, China, MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, Shanghai, China
@@ -62,7 +62,7 @@ Advances in Multi-turn Dialogue Comprehension: A Survey
 
 2021-03-08
 
-*Enhanced Aspect-Based Sentiment Analysis Models with Progressive  Self-supervised Attention Learning
+[🌟🌟]Enhanced Aspect-Based Sentiment Analysis Models with Progressive  Self-supervised Attention Learning
 标题：基于渐进式自监督注意学习的增强型基于方面的情感分析模型
 作者：Jinsong Su,Jialong Tang,Hui Jiang,Ziyao Lu,Yubin Ge,Linfeng Song,Deyi Xiong,Le Sun,Jiebo Luo
 机构：Xiamen University, Xiamen , China, Institute of Software, Chinese Academy of Sciences, Beijing, China, CUniversity of Chinese Academy of Sciences, Beijing, China, University of Illinois at Urbana-Champaign, Urbana, IL , USA, Tianjin University, Tianjin, China, University of Rochester, Rochester NY, USA
@@ -72,7 +72,7 @@ Advances in Multi-turn Dialogue Comprehension: A Survey
 
 2021-03-09
 
-*Improving Zero-Shot Entity Retrieval through Effective Dense Representations
+[🌟]Improving Zero-Shot Entity Retrieval through Effective Dense Representations
 标题：通过有效的稠密表示改进零命中实体检索
 作者：Eleni Partalidou,Despina Christou,Grigorios Tsoumakas
 机构：Aristotle University of Thessaloniki Aristotle University of Thessaloniki, Thessaloniki-Greece
@@ -80,7 +80,7 @@ Advances in Multi-turn Dialogue Comprehension: A Survey
 链接：https://arxiv.org/abs/2103.04156
 将bert运用到实体链接任务中的候选值生成，达到stoa水平。
 
-Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees
+[🌟🌟]Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees
 标题：语法-BERT：用语法树改进预先训练的转换器
 作者：Jiangang Bai,Yujing Wang,Yiren Chen,Yaming Yang,Jing Bai,Jing Yu,Yunhai Tong
 机构：Peking University, Beijing, China, Microsoft Research Asia, Beijing, China, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China, yujing,iie.ac.cn
@@ -91,7 +91,7 @@ Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees
 
 2021-03-10
 
-Self-supervised Regularization for Text Classification
+[🌟]Self-supervised Regularization for Text Classification
 标题：自监督正则化在文本分类中的应用
 作者：Meng Zhou,Zechen Li,Pengtao Xie
 机构：Shanghai Jiao Tong University Northeastern University, UC San Diego
@@ -99,7 +99,7 @@ Self-supervised Regularization for Text Classification
 链接：https://arxiv.org/abs/2103.05231
 在文本分类的loss中加入自监督任务loss作为正则项，缓解文本分类的过拟合问题。
 
-BERTese: Learning to Speak to BERT
+[🌟]BERTese: Learning to Speak to BERT
 标题：BERTese：学习与Bert交谈
 作者：Adi Haviv,Jonathan Berant,Amir Globerson
 机构：Tel Aviv University, Allen Institute for Al
@@ -108,7 +108,7 @@ BERTese: Learning to Speak to BERT
 
 2021-03-12
 
-ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment  Analysis and Rating Prediction
+[🌟🌟]ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment  Analysis and Rating Prediction
 标题：ASAP：面向方面类别情感分析和评分预测的中文评论数据集
 作者：Jiahao Bu,Lei Ren,Shuang Zheng,Yang Yang,Jingang Wang,Fuzheng Zhang,Wei Wu
 机构：NLP Center, Meituan
@@ -116,13 +116,13 @@ ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment  Analysis and R
 链接：https://arxiv.org/abs/2103.06605
 出自美团的ABSA细粒度情感分析的中文数据集，同时进行情感分析和评分预测两个任务。
 
-Conversational Answer Generation and Factuality for Reading  Comprehension Question-Answering
+[🌟🌟]Conversational Answer Generation and Factuality for Reading  Comprehension Question-Answering
 标题：会话式答案生成与阅读理解问答的真实性
 作者：Stan Peshterliev,Barlas Oguz,Debojeet Chatterjee,Hakan Inan,Vikas Bhardwaj
 链接：https://arxiv.org/abs/2103.06500
 AnswerBART，一个端到端的模型，使用阅读理解用于会话答案生成。
 
-Domain State Tracking for a Simplified Dialogue System
+[🌟🌟]Domain State Tracking for a Simplified Dialogue System
 标题：一种简化对话系统的域状态跟踪
 作者：Hyunmin Jeon,Gary Geunbae Lee
 机构：Computer Science and Engineering Computer Science and Engineering, POSTECH, Pohang, South Korea
@@ -132,13 +132,13 @@ Domain State Tracking for a Simplified Dialogue System
 
 2021-03-16
 
-Few-Shot Text Classification with Triplet Networks, Data Augmentation,  and Curriculum Learning
+[🌟]Few-Shot Text Classification with Triplet Networks, Data Augmentation,  and Curriculum Learning
 标题：基于三重网络、数据增强和课程学习的少发文本分类
 作者：Jason Wei,Chengyu Huang,Soroush Vosoughi,Yu Cheng,Shiqi Xu
 备注：To appear at NAACL 2021
 链接：https://arxiv.org/abs/2103.07552
 
-Context Transformer with Stacked Pointer Networks for Conversational  Question Answering over Knowledge Graphs
+[🌟🌟]Context Transformer with Stacked Pointer Networks for Conversational  Question Answering over Knowledge Graphs
 标题：基于堆叠指针网络的知识图对话式问答上下文转换器
 作者：Joan Plepi,Endri Kacupaj,Kuldeep Singh,Harsh Thakkar,Jens Lehmann
 备注：18th Extended Semantic Web Conference 2021 (ESWC'2021) - Research Track
@@ -146,7 +146,7 @@ Context Transformer with Stacked Pointer Networks for Conversational  Question A
 
 2021-03-17
 
-KGSynNet: A Novel Entity Synonyms Discovery Framework with Knowledge  Graph
+[🌟]KGSynNet: A Novel Entity Synonyms Discovery Framework with Knowledge  Graph
 标题：KGSynNet：一种新的基于知识图的实体同义词发现框架
 作者：Yiying Yang,Xi Yin,Haiqin Yang,Xingjian Fei,Hao Peng,Kaijie Zhou,Kunfeng Lai,Jianping Shen
 机构：Ping An Life Insurance Company of China, Ltd., BDBC, Beihang University, Beijing, China,
@@ -155,7 +155,7 @@ KGSynNet: A Novel Entity Synonyms Discovery Framework with Knowledge  Graph
 
 2021-03-18
 
-Dialogue History Matters! Personalized Response Selectionin Multi-turn  Retrieval-based Chatbots
+[🌟🌟]Dialogue History Matters! Personalized Response Selectionin Multi-turn  Retrieval-based Chatbots
 标题：对话历史很重要！基于多轮检索的聊天机器人个性化响应选择
 作者：Juntao Li,Chang Liu,Chongyang Tao,Zhangming Chan,Dongyan Zhao,Min Zhang,Rui Yan
 备注：Accepted by ACM Transactions on Information Systems, 25 pages, 2 figures, 9 tables
@@ -163,7 +163,7 @@ Dialogue History Matters! Personalized Response Selectionin Multi-turn  Retrieva
 
 2021-03-19
 
-All NLP Tasks Are Generation Tasks: A General Pretraining Framework
+[🌟🌟🌟🌟]All NLP Tasks Are Generation Tasks: A General Pretraining Framework
 标题：所有NLP任务都是生成任务：一个通用的预培训框架
 作者：Zhengxiao Du,Yujie Qian,Xiao Liu,Ming Ding,Jiezhong Qiu,Zhilin Yang,Jie Tang
 备注：14 pages, 3 figures
@@ -172,12 +172,12 @@ All NLP Tasks Are Generation Tasks: A General Pretraining Framework
 
 2021-03-24
 
-A General Framework for Learning Prosodic-Enhanced Representation of Rap  Lyrics
+[🌟]A General Framework for Learning Prosodic-Enhanced Representation of Rap  Lyrics
 标题：一种学习Rap歌词韵律增强表示的通用框架
 作者：Hongru Liang,Haozheng Wang,Qian Li,Jun Wang,Guandong Xu,Jiawei Chen,Jin-Mao Wei,Zhenglu Yang
 链接：https://arxiv.org/abs/2103.12615
 
-SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers
+[🌟🌟🌟]SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers
 标题：自解释：一种神经文本分类器的自解释体系结构
 作者：Dheeraj Rajagopal,Vidhisha Balachandran,Eduard Hovy,Yulia Tsvetkov
 机构：Carnegie Mellon University
