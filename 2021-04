@@ -33,6 +33,7 @@
 机构：StatNLP Research Group, Singapore University of Technology and Design,  DAMO Academy, Alibaba Group , ByteDance
 备注：Accepted by NAACL 2021. 13 pages, 9 Figure, 10 Tables
 链接：https://arxiv.org/abs/2104.05316
+语法LSTM在ner中用于识别上下文信息和结构信息。
 
 [🌟🌟]Conversational Semantic Role Labeling
 标题：会话语义角色标注
