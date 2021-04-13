@@ -16,7 +16,7 @@
 备注：Accepted to NAACL 2021
 链接：https://arxiv.org/abs/2104.03848
 
-2021-04-13
+2021-04-12
 
 [🌟🌟]Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking
 标题：用于对话状态跟踪的知识感知图增强型GPT-2
@@ -24,3 +24,26 @@
 机构：University of Cambridge, United Kingdom
 备注：8 pages of main content
 链接：https://arxiv.org/abs/2104.04466
+
+2021-04-13
+
+[🌟🌟]Better Feature Integration for Named Entity Recognition
+标题：用于命名实体识别的更好的特征集成
+作者：Lu Xu,Zhanming Jie,Wei Lu,Lidong Bing
+机构：StatNLP Research Group, Singapore University of Technology and Design,  DAMO Academy, Alibaba Group , ByteDance
+备注：Accepted by NAACL 2021. 13 pages, 9 Figure, 10 Tables
+链接：https://arxiv.org/abs/2104.05316
+
+[🌟🌟]Conversational Semantic Role Labeling
+标题：会话语义角色标注
+作者：Kun Xu,Han Wu,Linfeng Song,Haisong Zhang,Linqi Song,Dong Yu
+机构：Tencent AI Lab, City University of Hong Kong
+备注：Accepted by TASLP. arXiv admin note: text overlap with arXiv:2010.01417
+链接：https://arxiv.org/abs/2104.04947
+
+[🌟]ZS-BERT: Towards Zero-Shot Relation Extraction with Attribute  Representation Learning
+标题：ZS-BERT：基于属性表示学习的零射关系抽取
+作者：Chih-Yao Chen,Cheng-Te Li
+机构：Progam of Data Science, Institute of Data Science, National Taiwan University, National Cheng Kung University, Taipei, Taiwan, Tainan, Taiwan
+备注：Accepted to NAACL 2021. Code is available at this https URL
+链接：https://arxiv.org/abs/2104.04697
