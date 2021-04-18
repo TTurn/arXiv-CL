@@ -34,7 +34,7 @@ GPT-2+图神经网络做对话状态跟踪
 机构：StatNLP Research Group, Singapore University of Technology and Design,  DAMO Academy, Alibaba Group , ByteDance
 备注：Accepted by NAACL 2021. 13 pages, 9 Figure, 10 Tables
 链接：https://arxiv.org/abs/2104.05316
-语法LSTM在ner中用于识别上下文信息和结构信息。
+语法LSTM在ner中用于识别上下文信息和结构信息。LSTM+GCN,结构信息与词向量信息分别进行LSTM。
 
 [🌟🌟🌟]Conversational Semantic Role Labeling
 标题：会话语义角色标注
@@ -49,3 +49,9 @@ GPT-2+图神经网络做对话状态跟踪
 机构：Progam of Data Science, Institute of Data Science, National Taiwan University, National Cheng Kung University, Taipei, Taiwan, Tainan, Taiwan
 备注：Accepted to NAACL 2021. Code is available at this https URL
 链接：https://arxiv.org/abs/2104.04697
+
+[🌟]Lattice-BERT: Leveraging Multi-Granularity Representations in Chinese  Pre-trained Language Models
+标题：格子-伯特：利用汉语预训练语言模型中的多粒度表示
+作者：Yuxuan Lai,Yijia Liu,Yansong Feng,Songfang Huang,Dongyan Zhao
+备注：Accepted at NAACL 2021, 16 pages
+链接：https://arxiv.org/abs/2104.07204
