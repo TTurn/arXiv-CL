@@ -50,8 +50,10 @@ GPT-2+图神经网络做对话状态跟踪
 备注：Accepted to NAACL 2021. Code is available at this https URL
 链接：https://arxiv.org/abs/2104.04697
 
-[🌟]Lattice-BERT: Leveraging Multi-Granularity Representations in Chinese  Pre-trained Language Models
+[🌟🌟🌟]Lattice-BERT: Leveraging Multi-Granularity Representations in Chinese  Pre-trained Language Models
 标题：格子-伯特：利用汉语预训练语言模型中的多粒度表示
 作者：Yuxuan Lai,Yijia Liu,Yansong Feng,Songfang Huang,Dongyan Zhao
 备注：Accepted at NAACL 2021, 16 pages
 链接：https://arxiv.org/abs/2104.07204
+格子bert，用于中文词粒度的预训练模型。
+
