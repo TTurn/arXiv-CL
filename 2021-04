@@ -33,6 +33,7 @@ GPT-2+图神经网络做对话状态跟踪
 作者：Lu Xu,Zhanming Jie,Wei Lu,Lidong Bing
 机构：StatNLP Research Group, Singapore University of Technology and Design,  DAMO Academy, Alibaba Group , ByteDance
 备注：Accepted by NAACL 2021. 13 pages, 9 Figure, 10 Tables
+https://blog.csdn.net/choose_c/article/details/104136543
 链接：https://arxiv.org/abs/2104.05316
 语法LSTM在ner中用于识别上下文信息和结构信息。LSTM+GCN,结构信息与词向量信息分别进行LSTM。
 
