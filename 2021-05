@@ -1,15 +1,33 @@
 2021-05-10
 
-[]Are Pre-trained Convolutions Better than Pre-trained Transformers?
+[🌟]Are Pre-trained Convolutions Better than Pre-trained Transformers?
 标题：预先训练的卷积比预先训练的Transformer更好吗？
 作者：Yi Tay,Mostafa Dehghani,Jai Gupta,Dara Bahri,Vamsi Aribandi,Zhen Qin,Donald Metzler
 机构：Google Research, Brain Team, Amsterdam, Netherlands, Mountain View, California Mountain View, California Mountain View, California, Google research, Mountain view, California
 备注：Accepted to ACL 2021
 链接：https://arxiv.org/abs/2105.03322
+基于卷积的seq2seq范式的预训练模型，效果不输tansformer，速度更优。
 
-[]A Survey of Data Augmentation Approaches for NLP
+[🌟🌟]A Survey of Data Augmentation Approaches for NLP
 标题：自然语言处理中的数据增强方法综述
 作者：Steven Y. Feng,Varun Gangal,Jason Wei,Sarath Chandar,Soroush Vosoughi,Teruko Mitamura,Eduard Hovy
 机构：Carnegie Mellon University,Google Research, Mila-Quebec AI Institute,Dartmouth College, soroushadartmouth. edu
 备注：Accepted to ACL 2021 Findings
 链接：https://arxiv.org/abs/2105.03075
+
+2021-05-11
+
+[🌟🌟🌟]ReadTwice: Reading Very Large Documents with Memories
+标题：ReadTwice：用记忆阅读非常大的文档
+作者：Yury Zemlyanskiy,Joshua Ainslie,Michiel de Jong,Philip Pham,Ilya Eckstein,Fei Sha
+机构：University of Southern California, Google Research
+备注：To appear in the proceedings of NAACL 2021
+链接：https://arxiv.org/abs/2105.04241
+使用两步走的方案进行阅读理解或者是QA，第一步使用记忆模块记录上下文信息，第二步在其他段落的时候使用。
+
+[🌟🌟]Poolingformer: Long Document Modeling with Pooling Attention
+标题：PoolingForm：具有集中注意力的长文档建模
+作者：Hang Zhang,Yeyun Gong,Yelong Shen,Weisheng Li,Jiancheng Lv,Nan Duan,Weizhu Chen
+备注：Accepted by ICML 2021
+链接：https://arxiv.org/abs/2105.04371
+带有注意力pooling的长文档建模问答模型。
