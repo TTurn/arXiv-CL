@@ -31,3 +31,17 @@
 备注：Accepted by ICML 2021
 链接：https://arxiv.org/abs/2105.04371
 带有注意力pooling的长文档建模问答模型。
+
+2021-05-17
+
+[🌟]Locate and Label: A Two-stage Identifier for Nested Named Entity  Recognition
+标题：定位和标注：嵌套命名实体识别的两阶段标识符
+作者：Yongliang Shen,Xinyin Ma,Zeqi Tan,Shuai Zhang,Wen Wang,Weiming Lu
+机构：College of Computer Science and Technology, Zhejiang University, University of Science and Technology of China
+备注：Accepted to ACL 2021, submission version
+链接：https://arxiv.org/abs/2105.06804
+摘要：命名实体识别（Named entity recognition，NER）是自然语言处理中的一个研究热点。传统的NER研究只涉及平面实体，忽略了嵌套实体。
+基于广域的方法将实体识别视为广域分类任务。这些方法虽然具有处理嵌套NER的能力，但计算量大，对边界信息的忽略，对部分匹配实体的跨度利用不足，长实体识别困难。
+为了解决这些问题，我们提出了一种两阶段实体标识符。首先通过对种子跨度进行过滤和边界回归来生成跨度建议以定位实体，然后用相应的类别标记边界调整后的跨度建议。
+该方法有效地利用了训练过程中实体和部分匹配跨度的边界信息。通过边界回归，理论上可以覆盖任意长度的实体，提高了对长实体的识别能力。
+此外，在第一阶段中过滤掉许多低质量的种子跨度，降低了推理的时间复杂度。在嵌套的NER数据集上的实验表明，本文提出的方法优于现有的模型。
