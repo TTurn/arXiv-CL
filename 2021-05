@@ -45,3 +45,13 @@
 为了解决这些问题，我们提出了一种两阶段实体标识符。首先通过对种子跨度进行过滤和边界回归来生成跨度建议以定位实体，然后用相应的类别标记边界调整后的跨度建议。
 该方法有效地利用了训练过程中实体和部分匹配跨度的边界信息。通过边界回归，理论上可以覆盖任意长度的实体，提高了对长实体的识别能力。
 此外，在第一阶段中过滤掉许多低质量的种子跨度，降低了推理的时间复杂度。在嵌套的NER数据集上的实验表明，本文提出的方法优于现有的模型。
+
+2021-05-18
+
+[🌟]Lexicon Enhanced Chinese Sequence Labelling Using BERT Adapter
+标题：基于BERT适配器的词典增强型中文序列标注
+作者：Wei Liu,Xiyan Fu,Yue Zhang,Wenming Xiao
+机构：DAMO Academy, Alibaba Group, China, College of Computer Science, Nankai University, China, School of Engineering, Westlake University, China, Institute of Advanced Technology, Westlake Institute for Advanced Study
+备注：accepted by ACL2021
+链接：https://arxiv.org/abs/2105.07148
+摘要：由于词库信息和预训练模型（如BERT）各自的优势，它们被用来探索汉语序列标注任务。然而，现有的方法仅仅通过一个浅层随机初始化的序列层来融合词汇特征，而没有将它们集成到BERT的底层。本文提出了一种用于中文序列标注的词库增强BERT（LEBERT），它通过词库适配器层将外部词库知识直接集成到BERT层。与现有方法相比，该模型有利于在BERT的底层进行深层词汇知识融合。在十个中文数据集上进行了命名实体识别、分词和词性标注三个任务的实验，实验结果表明LEBERT取得了最新的结果。
