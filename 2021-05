@@ -54,4 +54,19 @@
 机构：DAMO Academy, Alibaba Group, China, College of Computer Science, Nankai University, China, School of Engineering, Westlake University, China, Institute of Advanced Technology, Westlake Institute for Advanced Study
 备注：accepted by ACL2021
 链接：https://arxiv.org/abs/2105.07148
-摘要：由于词库信息和预训练模型（如BERT）各自的优势，它们被用来探索汉语序列标注任务。然而，现有的方法仅仅通过一个浅层随机初始化的序列层来融合词汇特征，而没有将它们集成到BERT的底层。本文提出了一种用于中文序列标注的词库增强BERT（LEBERT），它通过词库适配器层将外部词库知识直接集成到BERT层。与现有方法相比，该模型有利于在BERT的底层进行深层词汇知识融合。在十个中文数据集上进行了命名实体识别、分词和词性标注三个任务的实验，实验结果表明LEBERT取得了最新的结果。
+摘要：由于词库信息和预训练模型（如BERT）各自的优势，它们被用来探索汉语序列标注任务。然而，现有的方法仅仅通过一个浅层随机初始化的序列层来融合词汇特征，而没有将它们集成到BERT的底层。
+本文提出了一种用于中文序列标注的词库增强BERT（LEBERT），它通过词库适配器层将外部词库知识直接集成到BERT层。与现有方法相比，该模型有利于在BERT的底层进行深层词汇知识融合。
+在十个中文数据集上进行了命名实体识别、分词和词性标注三个任务的实验，实验结果表明LEBERT取得了最新的结果。
+
+2021-05-20
+
+[🌟]Retrieval-Augmented Transformer-XL for Close-Domain Dialog Generation
+标题：用于闭域对话生成的检索-增强型Transformer-XL
+作者：Giovanni Bonetta,Rossella Cancelliere,Ding Liu,Paul Vozila
+机构：Department of Computer Science, University of Turin, Torino, Italy, Nuance Communications Inc., Burlington, MA, USA
+备注：The International FLAIRS Conference Proceedings volume 34 issue 1
+链接：https://arxiv.org/abs/2105.09235
+摘要：基于Transformer的模型在自然语言生成中表现出很好的模式和结构捕获能力，并在许多任务中取得了最新的成果。本文提出了一种基于Transformer的多匝对话响应生成模型。
+我们的解决方案基于一种混合方法，该方法通过一种新的检索机制来扩充基于Transformer的生成模型，该机制通过k近邻搜索来利用训练数据中的记忆信息。
+我们的系统是在两个由客户/助理对话框制作的数据集上进行评估的：Taskmaster-1，由Google发布，拥有高质量、面向目标的会话数据和从真实的客户服务呼叫中心收集的专有数据集。
+两者都取得了更好的BLEU得分超过强大的基线。
