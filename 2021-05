@@ -71,3 +71,15 @@ https://blog.csdn.net/choose_c/article/details/116769154
 我们的解决方案基于一种混合方法，该方法通过一种新的检索机制来扩充基于Transformer的生成模型，该机制通过k近邻搜索来利用训练数据中的记忆信息。
 我们的系统是在两个由客户/助理对话框制作的数据集上进行评估的：Taskmaster-1，由Google发布，拥有高质量、面向目标的会话数据和从真实的客户服务呼叫中心收集的专有数据集。
 两者都取得了更好的BLEU得分超过强大的基线。
+
+2021-05-26
+
+[🌟🌟]Multi-Task Learning of Generation and Classification for Emotion-Aware  Dialogue Response Generation
+标题：情感感知对话响应生成和分类的多任务学习
+作者：Tatsuya Ide,Daisuke Kawahara
+机构：Waseda University
+备注：NAACL Student Research Workshop (SRW) 2021
+链接：https://arxiv.org/abs/2105.11696
+摘要：计算机要自然地与人互动，就必须像人一样。本文提出了一种基于情感的多任务生成分类学习神经反应生成模型。
+我们的模型基于BART（Lewis等人，2020），一个预先训练的Transformer-编码器-解码器模型，被训练来同时产生反应和识别情绪。
+此外，我们对任务的损失进行加权，以控制参数的更新。自动评估和众包手动评估表明，该模型使生成的反应更具情感意识。
