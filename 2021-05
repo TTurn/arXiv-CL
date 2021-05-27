@@ -83,3 +83,15 @@ https://blog.csdn.net/choose_c/article/details/116769154
 摘要：计算机要自然地与人互动，就必须像人一样。本文提出了一种基于情感的多任务生成分类学习神经反应生成模型。
 我们的模型基于BART（Lewis等人，2020），一个预先训练的Transformer-编码器-解码器模型，被训练来同时产生反应和识别情绪。
 此外，我们对任务的损失进行加权，以控制参数的更新。自动评估和众包手动评估表明，该模型使生成的反应更具情感意识。
+
+[🌟🌟]Language Model as an Annotator: Exploring DialoGPT for Dialogue  Summarization
+标题：作为注释器的语言模型：对话摘要的DialoGPT探索
+作者：Xiachong Feng,Xiaocheng Feng,Libo Qin,Bing Qin,Ting Liu
+机构：Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology, China
+备注：ACL 2021
+链接：https://arxiv.org/abs/2105.12544
+摘要：当前的对话摘要系统通常使用一些通用的语义特征（如关键字和主题）对文本进行编码，以获得更强大的对话建模能力。
+然而，这些特性是通过开放域工具箱获得的，这些工具箱与对话框无关或严重依赖于人工注释。
+在本文中，我们展示了DialoGPT，一个预先训练好的会话反应生成模型，如何利用DialoGPT中编码的对话背景知识，发展成一个无监督的对话注释器。
+我们使用DialoGPT在SAMSum和AMI两个对话摘要数据集上标记三种类型的特征，并使用预训练和非预训练模型作为我们的总结。
+实验结果表明，该方法在两种数据集上都有显著的改进，在SAMSum数据集上取得了新的性能。
