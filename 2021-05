@@ -95,3 +95,16 @@ https://blog.csdn.net/choose_c/article/details/116769154
 在本文中，我们展示了DialoGPT，一个预先训练好的会话反应生成模型，如何利用DialoGPT中编码的对话背景知识，发展成一个无监督的对话注释器。
 我们使用DialoGPT在SAMSum和AMI两个对话摘要数据集上标记三种类型的特征，并使用预训练和非预训练模型作为我们的总结。
 实验结果表明，该方法在两种数据集上都有显著的改进，在SAMSum数据集上取得了新的性能。
+
+2021-05-31
+
+[🌟🌟]Data Augmentation for Text Generation Without Any Augmented Data
+标题：用于无任何扩充数据的文本生成的数据扩充
+作者：Wei Bi,Huayang Li,Jiacheng Huang
+机构：Tencent AI Lab, Shenzhen, China
+备注：Accepted into the main conference of ACL 2021
+链接：https://arxiv.org/abs/2105.13650
+摘要：数据扩充是提高许多神经文本生成模型性能的有效途径。然而，现有的数据增广方法需要定义或选择合适的数据映射函数，将原始样本映射到增广样本中。
+在这项工作中，我们提出了一个目标来描述文本生成任务中的数据扩充问题，而不需要使用由特定映射函数构造的扩充数据。
+在保证收敛速度的前提下，我们提出的目标可以有效地优化并应用于文本生成任务中常见的损失函数。
+在两个文本生成任务的五个数据集上的实验表明，该方法可以接近甚至超过流行的数据扩充方法。
