@@ -11,3 +11,25 @@
 然而，这个新的任务，作为一个二进制分类，语义信息较少。本文提出了一种基于多任务学习的文本编码器预训练方法，对ELECTRA算法进行了改进。
 具体地说，我们训练鉴别器同时检测替换的令牌并从候选集合中选择原始令牌。我们进一步开发了两种技术来有效地结合所有预训练任务：
 （1）使用基于注意的网络来处理特定任务的头部；（2）共享生成器和鉴别器的底层。在GLUE和SQuAD数据集上的大量实验证明了该方法的有效性和有效性。
+
+2021-06-22
+
+[🌟]Improving Compositional Generalization in Classification Tasks via  Structure Annotations
+标题：通过结构标注改进分类任务中的成分泛化
+作者：Juyong Kim,Pradeep Ravikumar,Joshua Ainslie,Santiago Ontañón
+机构：Carnegie Mellon University, Santiago Onta˜n´on, Google Research
+备注：Accepted as a short paper at ACL 2021
+链接：https://arxiv.org/abs/2106.10434
+摘要：组合泛化是通过组合已知的成分，系统地泛化到一个新的数据分布的能力。虽然人类似乎有很强的合成概括能力，但最先进的神经模型很难做到这一点。
+在这项工作中，我们研究了分类任务中的合成概括，并提出了两个主要贡献。首先，我们研究如何将自然语言序列转换成序列数据集，再转换成同样需要合成泛化的分类数据集。
+其次，我们展示了提供结构提示（特别是提供解析树和实体链接作为转换器模型的注意遮罩）有助于合成泛化。
+
+[🌟]Learning to Rank Question Answer Pairs with Bilateral Contrastive Data  Augmentation
+标题：基于双边对比数据增强的问答对排序学习
+作者：Yang Deng,Wenxuan Zhang,Wai Lam
+机构：The Chinese University of Hong Kong
+链接：https://arxiv.org/abs/2106.11096
+摘要：在这项工作中，我们提出了一种新颖且易于应用的数据扩充策略，即双边生成（BiG），其目的是通过对比训练来提高现有标记数据对问答对排序的性能。
+具体来说，我们通过两个预先训练的生成模型（一个用于问题生成，另一个用于答案生成）来合成伪正QA对，这两个模型在原始数据集中有限的正QA对上进行微调。
+利用增广的数据集，我们设计了一个对比训练目标来学习问题-答案对的排序。在TREC-QA、WikiQA和ANTIQUE三个基准数据集上的实验结果表明，
+该方法充分利用了已有的标记数据，显著提高了排序模型的性能，并且可以方便地应用于不同的排序模型。
